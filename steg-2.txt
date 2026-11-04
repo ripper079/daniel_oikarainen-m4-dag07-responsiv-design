@@ -1,0 +1,26 @@
+Vid 360
+index.html och kontakt.htlm
+Annan menu. Hamburgare lösning ser bättre ut.
+index.html
+På korten borde titel and texten sitta närmare. För stort mellanrum här.
+kontakt.html
+Jag har fet tumme och vill ha större knapp här. Vi vill ju att kunden ska göra en bokning!
+
+vid 768
+index.html
+Har hade JAG personligen velat ha korten på samma rad, och inte att den bryter så det bli 2+1. 
+Eventuellt 1+1+1 kort layout.
+Jag hade övertygat ägaren :D till kafeet att ha fyra kort så att den bryter
+4 -> 2 + 2 -> 1 + 1 + 1 + 1
+kontakt.html
+Kostänskemål och bekräftelse gruppen borde ha samma bredd som resterande fält
+ELLER
+Alla andra element måste anpassa storleken till dessa 2.
+
+vid 1280
+kontakt.html
+Kontakt formulätet ser inte bra ut här, för mkt luft speciellt första fälten.
+Medans checkboxes och radio button fieldgroup sträcker ut hela vägen. Ser inte symentriskt ut!
+index.html
+Hero sektion känns lite tom på höger sida, kanske utnyttja på bättre sätt.
+Ser även ut som att texten i Hero sektionen är avklippt!
