@@ -254,8 +254,8 @@ article .pris {
 
 /* Brytpunkt 1 */
 @media (min-width: 600px) {
-  #hero {
-    padding: 40px 32px;
+  main {
+    padding: 32px;
   }
 
   #hero h2 {
