@@ -252,6 +252,7 @@ article .pris {
   grid-column: 1 / -1;
 }
 
+/* Brytpunkt 1 */
 @media (min-width: 600px) {
   #hero {
     padding: 40px 32px;
@@ -260,6 +261,29 @@ article .pris {
   #hero h2 {
     font-size: 1.875rem;
   }
+}
+
+/* Brytpunkt 2 */
+@media (min-width: 900px) {
+  #om-oss {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+}
+
+#om-oss h2 {
+  grid-column: 1 / -1; 
+}
+
+#om-oss p {
+   grid-column: 2;  
+}
+
+#om-oss img {
+   grid-column: 1;
+  grid-row: 2 / 4;  
+}
+
 }
 
 
