@@ -284,6 +284,12 @@ article .pris {
   grid-row: 2 / 4;  
 }
 
+/* Simulate larger header by increase the padding */
+header {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
 }
 
 
